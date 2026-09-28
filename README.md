@@ -85,12 +85,13 @@ road-accident-analysis/
 ├── dashboard/
 │   └── road_accident_dashboard.pbix
 ├── data/
-│   └── [dataset file or link to Kaggle]
-├── notebooks/
-│   └── [modeling notebook, if included]
+│   └── [dataset from Kaggle]
 ├── screenshots/
-│   ├── 01-home.png
-│   └── ...
+│   ├── 01-IndianaccidentHomepage.png
+    |-- 02-Dashboard-Overview.png
+    |-- 03-Dashboard-Time&TrendAnalysis.png
+    |-- 04-Dashboard-Cause&severityanalysis.png
+│   └── 05-Dashboard-geographicriskanalysis.png
 └── README.md
 ```
 
